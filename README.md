@@ -2,4 +2,6 @@ html & Css project
 
 swamivivekananda biography
 
-https://github.com/shouvikmistry/swami.vivekananda.biography.git
+Visit here 
+
+https://shouvikmistry.github.io/swami.vivekananda.biography/
